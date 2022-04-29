@@ -1,0 +1,24 @@
+{
+  "name": "project-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tl-lvl-lL/sass-project.git"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "html"
+  ],
+  "author": "Mariano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tl-lvl-lL/sass-project/issues"
+  },
+  "homepage": "https://github.com/Tl-lvl-lL/sass-project#readme"
+}
